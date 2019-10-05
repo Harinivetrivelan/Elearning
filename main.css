@@ -2,7 +2,6 @@ body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
   background-attachment: fixed;
-  background-color :skyblue;
 }
 
 header {
@@ -43,6 +42,7 @@ header p {
 .container {
     position: relative;
     color: white;
+    background-color:skyblue;
   }
 
   .centered {
